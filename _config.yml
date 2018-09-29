@@ -17,8 +17,8 @@ favicon: favicon.png
 
 repository: zhangxuantao/zhangxuantao.github.io
 github_url: https://github.com/zhangxuantao
-cnblog_url: http://www.cnblogs.com/zhangxuantao
-url: http://www.zhangxuantao.com
+cnblog_url: https://www.cnblogs.com/zhangxuantao
+url: https://www.zhangxuantao.com
 enforce_ssl: zhangxuantao.com
 
 ## Gem
